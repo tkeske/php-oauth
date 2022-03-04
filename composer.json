@@ -1,6 +1,5 @@
 {
     "name": "tkeske/phpoauth",
-    "description": "phpoauth",
     "type": "library",
     "authors": [
         {
@@ -8,13 +7,6 @@
             "email": "tomas.keske@bait.sk"
         }
     ],
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/tkeske/phpoauth"
-      }
-    ],
-    {
-      "version": "1.0.0" 
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
