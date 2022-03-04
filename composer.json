@@ -7,6 +7,5 @@
             "email": "tomas.keske@bait.sk"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
