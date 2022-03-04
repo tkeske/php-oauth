@@ -13,5 +13,8 @@
         "type": "vcs",
         "url": "https://github.com/tkeske/phpoauth"
       }
-    ]
+    ],
+    {
+      "version": "1.0.0" 
+    }
 }
