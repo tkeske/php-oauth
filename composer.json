@@ -13,6 +13,5 @@
         "type": "vcs",
         "url": "https://github.com/tkeske/phpoauth"
       }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
