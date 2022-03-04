@@ -8,5 +8,11 @@
             "email": "tomas.keske@bait.sk"
         }
     ],
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/tkeske/phpoauth"
+      }
+    ],
     "require": {}
 }
