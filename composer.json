@@ -1,0 +1,12 @@
+{
+    "name": "tkeske/phpoauth",
+    "description": "phpoauth",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tomáš Keske",
+            "email": "tomas.keske@bait.sk"
+        }
+    ],
+    "require": {}
+}
