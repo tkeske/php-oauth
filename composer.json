@@ -14,5 +14,5 @@
         "url": "https://github.com/tkeske/phpoauth"
       }
     ],
-    "minimum-stability": "dev-master"
+    "minimum-stability": "dev"
 }
